@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+### ⭐️ &nbsp;Github Star
+<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=wikimore&count_private=true&show_icons=true"/>
+
+### 🛠 &nbsp;Tech Stack
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=wikimore&hide=html,&hide_border=true&title_color=5391FE&text_color=555
+
 <!--
 **wikimore/wikimore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
